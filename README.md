@@ -10,9 +10,7 @@
   <a href="mailto:priyadharshiniep05@gmail.com"><img src="https://img.shields.io/badge/Email-priyadharshiniep05%40gmail.com-7C5CFF?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-1f2328?style=flat-square&logo=googlemaps&logoColor=white" />
   <a href="https://www.linkedin.com/in/priyadharshiniep"><img src="https://img.shields.io/badge/LinkedIn-priyadharshiniep-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNlY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" /></a>
-  <!-- Add your portfolio badge here when ready:
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white" /></a>
-  -->
+  <a href="https://priyadharshiniep.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-priyadharshiniep.vercel.app-111?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </div>

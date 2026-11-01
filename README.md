@@ -4,12 +4,12 @@
 
 ### Applied AI & Computer Vision · Building tech for health and road safety
 
-<a href="https://github.com/priyadharshiniep05"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=7C5CFF&center=true&vCenter=true&width=560&lines=Real-time+computer+vision+on+the+edge;Driver+safety+%E2%80%A2+Health-tech+%E2%80%A2+Social+impact;CS+Engineering+%40+KSIT+Bengaluru+%E2%80%94+Class+of+2027" alt="Typing intro" /></a>
+`Real-time computer vision` · `Driver safety` · `Health-tech` · `CSE @ KSIT '27`
 
 <p>
   <a href="mailto:priyadharshiniep05@gmail.com"><img src="https://img.shields.io/badge/Email-priyadharshiniep05%40gmail.com-7C5CFF?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-1f2328?style=flat-square&logo=googlemaps&logoColor=white" />
-  <a href="https://www.linkedin.com/in/priyadharshiniep"><img src="https://img.shields.io/badge/LinkedIn-priyadharshiniep-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/priyadharshiniep"><img src="https://img.shields.io/badge/LinkedIn-priyadharshiniep-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NXYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0djUuNjdIOS4zNlY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" /></a>
   <!-- Add your portfolio badge here when ready:
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=flat-square&logo=vercel&logoColor=white" /></a>
   -->
@@ -129,10 +129,6 @@ Optimizes picker routes through a warehouse floor to cut walking distance and fu
 ## 📊 GitHub activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=priyadharshiniep05&theme=tokyonight&hide_border=true&ring=7C5CFF&fire=7C5CFF&currStreakLabel=7C5CFF" alt="GitHub streak" />
-
-<br/><br/>
 
 <img src="https://ghchart.rshah.org/7C5CFF/priyadharshiniep05" alt="Contribution chart" width="95%" />
 
